@@ -1,4 +1,4 @@
-package iris_test
+package iriscontainer_test
 
 import (
 	"context"

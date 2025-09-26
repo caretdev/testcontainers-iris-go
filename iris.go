@@ -1,4 +1,4 @@
-package iris
+package iriscontainer
 
 import (
 	"context"
